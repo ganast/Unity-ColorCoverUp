@@ -27,7 +27,7 @@ Mastermind is a trademark by Hasbro, Inc.
 
 ## Licence
 
-The original source code of Roach Run is licensed under the MIT License and is available at https://github.com/ganast/Unity-ColorCoverUp.
+The original source code of Color Cover-Up is licensed under the MIT License and is available at https://github.com/ganast/Unity-ColorCoverUp.
 
 ## Contact
 
