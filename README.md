@@ -20,6 +20,7 @@ The following third-party assets were used in the making of Roach Run:
 - Applause 2, Applause pack, by Sandermotions, https://freesound.org/people/Sandermotions/sounds/277021, Creative Commons 0
 - horn_fail_wahwah_1, French Horn sounds pack, by TaranP, https://freesound.org/people/TaranP/sounds/362206, Creative Commons Attribution
 - Bell Ding, by Natty23, https://freesound.org/people/Natty23/sounds/411749, Creative Commons Attribution
+
 All other non-original assets either public domain or provided as Unity standard assets.
 
 Mastermind is a trademark by Hasbro, Inc.
